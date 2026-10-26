@@ -1,0 +1,21 @@
+# Node / React
+node_modules/
+frontend/dist/
+
+# Java / Maven
+target/
+backend/target/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.idea/
+.settings/
+.classpath
+.project
+
+# Logs
+*.log
